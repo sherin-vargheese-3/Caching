@@ -1,7 +1,7 @@
-package com.exercise.Caching.controller;
+package com.exercise.caching.controller;
 
-import com.exercise.Caching.model.Product;
-import com.exercise.Caching.service.ProductService;
+import com.exercise.caching.model.Product;
+import com.exercise.caching.service.ProductService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 

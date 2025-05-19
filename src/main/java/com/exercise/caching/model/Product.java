@@ -1,4 +1,4 @@
-package com.exercise.Caching.model;
+package com.exercise.caching.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.exercise.Caching.config;
+package com.exercise.caching.config;
 
 import com.github.benmanes.caffeine.cache.Caffeine;
 import org.springframework.cache.caffeine.CaffeineCacheManager;

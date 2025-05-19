@@ -1,7 +1,7 @@
-package com.exercise.Caching.service;
+package com.exercise.caching.service;
 
-import com.exercise.Caching.model.Product;
-import com.exercise.Caching.repository.ProductRepository;
+import com.exercise.caching.model.Product;
+import com.exercise.caching.repository.ProductRepository;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.CachePut;
 import org.springframework.cache.annotation.Cacheable;
